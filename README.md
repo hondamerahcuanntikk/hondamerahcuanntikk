@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Revan 
 
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
