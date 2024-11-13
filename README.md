@@ -1,42 +1,37 @@
-# <summary><strong>Hi there :wave: , I'm Revan Adha !</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<h1 align="center">Hi 👋, I'm Devano Aghanza Putra Pradessah</h1>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
+<h3 align="center">I am currently studying at <a href="https://www.umm.ac.id/">Muhammadiyah University of Malang</h3>
+<br><h4 align="center">A student who wants to become a Full-Stack Engineer, creative coder, and specialize in Front-End Development. My mission is to be able to develop websites that can provide convenience and satisfaction to its users.</h4><br>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+<hr>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a><!--
-**hondamerahcuanntikk/hondamerahcuanntikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dvnvano_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devano-aghanza-putra-pradessah-31223430a/)<br><br>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)	
+<hr>
+
+<br>
+<h3 align="center"> ✍️ Random Dev Quote</h3>
+<h4 align="center">Be joyful, but never content with trying. Keep striving to be a better person.</h4>
+<br><br>
+
+<hr>
+
+### 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/dvnvano)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
